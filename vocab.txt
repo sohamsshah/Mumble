@@ -1,0 +1,9 @@
+# Words and phrases the captions should prefer (one per line, max 100).
+# Edit while the app runs: changes apply to the next caption.
+# Add your product names, people's names and jargon here.
+
+eye contact
+interview
+candidate
+Zoom
+MediaPipe

@@ -1,0 +1,7 @@
+# Python 3.12. OpenCV < 5: 5.x has no prebuilt macOS 14 wheel.
+numpy
+opencv-contrib-python<5
+pillow
+pyvirtualcam
+pyobjc-framework-AVFoundation
+pyobjc-framework-Speech

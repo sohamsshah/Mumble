@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+# MediaPipe models are downloaded by prototypes/download_models.sh
+prototypes/models/
+prototypes/logos/
+prototypes/spikes/out/
